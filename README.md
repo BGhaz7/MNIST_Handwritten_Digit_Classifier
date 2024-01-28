@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [More Sections](#more-sections) [Add or remove sections as needed]
 
 ## Introduction
 Using PyTorch, a leading deep learning library, I've constructed and trained a neural network model to recognize digits from 0 to 9 with impressive accuracy. This project is part of my learning pathway in the [Udacity Nanodegree program](https://www.udacity.com/), specifically focusing on deep learning and neural networks.
